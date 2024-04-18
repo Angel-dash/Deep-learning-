@@ -17,13 +17,20 @@ We experimented with three distinct algorithms: logistic regression, support vec
 
 Our findings highlight the effectiveness of ANN and SVM in movie genre classification. Nevertheless, the issue of overfitting remains a significant challenge. This research contributes to the advancement of automated genre classification systems, offering implications for various applications in the entertainment industry.
 Results of SVM:
-![image](https://github.com/Angel-dash/Deep-learning-/assets/69751155/638fde6c-ba9f-43dd-a927-991a3d47263d)
+<div align="center">
+  <img src="https://github.com/Angel-dash/Deep-learning-/assets/69751155/638fde6c-ba9f-43dd-a927-991a3d47263d" width="400" />
+</div>
 
-Results of Liner regression:
-![image](https://github.com/Angel-dash/Deep-learning-/assets/69751155/6721f6ba-5efb-4762-acd6-c646991191d1)
+Results of Linear Regression:
+<div align="center">
+  <img src="https://github.com/Angel-dash/Deep-learning-/assets/69751155/6721f6ba-5efb-4762-acd6-c646991191d1" width="400" />
+</div>
 
-Result of LSTM:
-![image](https://github.com/Angel-dash/Deep-learning-/assets/69751155/53f6a0a1-572e-43ba-ab06-1524e040e53e)
+Results of LSTM:
+<div align="center">
+  <img src="https://github.com/Angel-dash/Deep-learning-/assets/69751155/53f6a0a1-572e-43ba-ab06-1524e040e53e" width="400" />
+</div>
+
 
 
 
