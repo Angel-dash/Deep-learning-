@@ -32,6 +32,9 @@ Results of LSTM:
 </div>
 
 
+##Inference:
+![image](https://github.com/Angel-dash/Deep-learning-/assets/69751155/69997076-b0ef-4fdd-8062-71825bea4dba)
+![image](https://github.com/Angel-dash/Deep-learning-/assets/69751155/348b59fb-52ec-4962-abf8-96aaf33ad06c)
 
 
 
