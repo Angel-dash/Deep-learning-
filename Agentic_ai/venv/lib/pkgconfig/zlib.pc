@@ -1,0 +1,13 @@
+prefix=/home/nightwing/Codes/Deep-learning-/Agentic_ai/venv
+exec_prefix=/home/nightwing/Codes/Deep-learning-/Agentic_ai/venv
+libdir=/home/nightwing/Codes/Deep-learning-/Agentic_ai/venv/lib
+sharedlibdir=/home/nightwing/Codes/Deep-learning-/Agentic_ai/venv/lib
+includedir=/home/nightwing/Codes/Deep-learning-/Agentic_ai/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
