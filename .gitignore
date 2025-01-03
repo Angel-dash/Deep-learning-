@@ -1,2 +1,5 @@
+# Ignore venv inside Agentic_ai
+Agentic_ai/venv/
+
+# Ignore all .env files
 Agentic_ai/.env
-Agentic_ai/venv
