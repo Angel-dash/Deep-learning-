@@ -18,7 +18,7 @@ import os
 API_KEY=os.getenv("GOOGLE_API_KEY")
 if API_KEY:
     genai.configure(api_key=API_KEY)
-
+print(API_KEY)
 # Page configuration
 st.set_page_config(
     page_title="Multimodal AI Agent- Video Summarizer",
